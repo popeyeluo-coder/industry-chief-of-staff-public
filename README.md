@@ -34,4 +34,3 @@
 ---
 
 *v5.2 · © popeyeluo-coder*
-Commit message：docs: update README with description and license
